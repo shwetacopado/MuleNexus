@@ -10,7 +10,7 @@
     <packaging>mule-application</packaging>
     <name>copado-mule-project</name>
 
-    <!-- Define properties -->
+    <!-- Define properties1 -->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
